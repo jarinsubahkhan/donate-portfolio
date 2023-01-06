@@ -1,8 +1,10 @@
 *{
     margin: 0;
+    font-family:'open sans' ,sans-serif;
 }
-header{
-    background-image: url('../styles/donation13.jpg')
+.background-image{
+    background-image:url('../donation13.jpg');
+    background-position: bottom;
 }
 nav{
     display: flex;
