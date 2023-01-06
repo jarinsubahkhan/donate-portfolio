@@ -2,14 +2,13 @@
     margin: 0;
     font-family:'open sans' ,sans-serif;
 }
-.background-image{
-    background-image:url('../donation13.jpg');
-    background-position: bottom;
-}
 nav{
     display: flex;
      justify-content: space-between;
-     margin: 50px 200px;
+     margin: 50px 250px;
+     position: absolute;
+     width: 1440px;
+height: 669px;
 }
 .banner{
 display: flex;
@@ -27,6 +26,7 @@ height: 158px;
 left: 307px;
 top: 164px;
 padding-bottom: 30px;
+color: #FFFFFF;
 }
 .sub-title{
 font-weight: 400;
@@ -39,6 +39,7 @@ width: 691px;
 height: 56px;
 left: 375px;
 top: 352px;
+color: #FFFFFF;
 }
 .button-pri{
     height: 60px;
